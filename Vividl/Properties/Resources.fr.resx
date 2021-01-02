@@ -118,355 +118,354 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
+    <value>Annuler</value>
   </data>
   <data name="DownloadOption_AVI" xml:space="preserve">
-    <value>Converter para AVI</value>
+    <value>Convertir en AVI</value>
   </data>
   <data name="DownloadOption_Best" xml:space="preserve">
-    <value>Melhores downloads diretos</value>
+    <value>Meilleur téléchargement direct</value>
   </data>
   <data name="DownloadOption_M4A" xml:space="preserve">
-    <value>Converter para M4A</value>
+    <value>Convertir en M4A</value>
   </data>
   <data name="DownloadOption_MKV" xml:space="preserve">
-    <value>Fundir para MKV</value>
+    <value>Fusionner avec MKV</value>
   </data>
   <data name="DownloadOption_MP3" xml:space="preserve">
-    <value>Converter para MP3</value>
+    <value>Convertir en MP3</value>
   </data>
   <data name="DownloadOption_MP4" xml:space="preserve">
-    <value>Converter para MP4</value>
+    <value>Convertir en MP4</value>
   </data>
   <data name="DownloadOption_Vorbis" xml:space="preserve">
-    <value>Converter para Ogg Vorbis</value>
+    <value>Convertir en Ogg Vorbis</value>
   </data>
   <data name="DownloadOption_WAV" xml:space="preserve">
-    <value>Converter para WAV</value>
+    <value>Convertir en WAV</value>
   </data>
   <data name="DownloadOption_Webm" xml:space="preserve">
-    <value>Converter para WebM</value>
+    <value>Convert to WebM</value>
   </data>
   <data name="DownloadOutputWindow_ClearOutput" xml:space="preserve">
-    <value>Limpar a saída</value>
+    <value>Effacer la sortie</value>
   </data>
   <data name="DownloadOutputWindow_CopyOutput" xml:space="preserve">
-    <value>Copiar a saída</value>
+    <value>Sortie de copie</value>
   </data>
   <data name="DownloadOutputWindow_Title" xml:space="preserve">
-    <value>Detalhe de download</value>
+    <value>Télécharger la sortie</value>
   </data>
   <data name="Error" xml:space="preserve">
-    <value>Erro</value>
+    <value>Erreur</value>
   </data>
   <data name="FetchWindow_DownloadFormat" xml:space="preserve">
-    <value>Formato de download</value>
+    <value>Format de téléchargement</value>
   </data>
   <data name="FetchWindow_DownloadPlaylist" xml:space="preserve">
-    <value>Baixar playlist se disponível</value>
+    <value>Télécharger la liste de lecture si disponible</value>
   </data>
   <data name="FetchWindow_EnterUrls" xml:space="preserve">
-    <value>Insira o URL do vídeo em linhas separadas</value>
+    <value>Entrez des URL vidéo dans des lignes distinctes</value>
   </data>
   <data name="FetchWindow_ImmediateDownload" xml:space="preserve">
-    <value>Comece o download imediatamente</value>
+    <value>Démarrer le téléchargement immédiatement</value>
   </data>
   <data name="FetchWindow_Options" xml:space="preserve">
-    <value>Opções</value>
+    <value>Options</value>
   </data>
   <data name="FetchWindow_Password" xml:space="preserve">
-    <value>Senha</value>
+    <value>mot de passe</value>
   </data>
   <data name="FetchWindow_Settings" xml:space="preserve">
-    <value>Configuração</value>
+    <value>Paramètres</value>
   </data>
   <data name="FetchWindow_TabAuthentication" xml:space="preserve">
-    <value>Autenticação</value>
+    <value>Authentification</value>
   </data>
   <data name="FetchWindow_TabGeneral" xml:space="preserve">
-    <value>Geral</value>
+    <value>Généralités</value>
   </data>
   <data name="FetchWindow_Username" xml:space="preserve">
-    <value>Nome do Usuário</value>
+    <value>nom d'utilisateur</value>
   </data>
   <data name="FetchWindow_VideoPassword" xml:space="preserve">
-    <value>Senha do vídeo</value>
+    <value>Mot de passe vidéo</value>
   </data>
   <data name="Info" xml:space="preserve">
-    <value>Informação</value>
+    <value>Info</value>
   </data>
   <data name="MainWindow_AlreadyFetched" xml:space="preserve">
-    <value>Este vídeo já foi adicionado para a lista de downloads. Para permitir duplicatas, vá para Opções -&gt; Configuração.
-</value>
+    <value>Cette vidéo a déjà été récupérée dans la liste de téléchargement.</value>
   </data>
   <data name="MainWindow_CountFailedFetches" xml:space="preserve">
-    <value>Falha ao buscar {0} vídeos:</value>
+    <value />
   </data>
   <data name="MainWindow_DownloadFolder" xml:space="preserve">
-    <value>Pasta de download</value>
+    <value>Pour autoriser les doublons, accédez à Options -&gt; Paramètres.</value>
   </data>
   <data name="MainWindow_FetchFailed_General" xml:space="preserve">
-    <value>Verifique se o URL fornecido é válido.</value>
+    <value>La récupération des vidéos {0} a échoué :</value>
   </data>
   <data name="MainWindow_FetchFailed_Title" xml:space="preserve">
-    <value>Não foi possível obter o vídeo</value>
+    <value>Télécharger le dossier</value>
   </data>
   <data name="MainWindow_HeaderFile" xml:space="preserve">
-    <value>_Arquivo</value>
+    <value>_Fichier</value>
   </data>
   <data name="MainWindow_HeaderOptions" xml:space="preserve">
-    <value>_Opções</value>
+    <value>_Options</value>
   </data>
   <data name="MainWindow_HeaderVideos" xml:space="preserve">
-    <value>_Vídeos</value>
+    <value>_Videos</value>
   </data>
   <data name="MainWindow_ListEmpty" xml:space="preserve">
-    <value>Adicione novos vídeos colando ou importando URLs.</value>
+    <value>Ajoutez de nouvelles vidéos en passant ou en important des URL.</value>
   </data>
   <data name="MainWindow_MenuAbout" xml:space="preserve">
-    <value>Sobre</value>
+    <value>_About</value>
   </data>
   <data name="MainWindow_MenuAdd" xml:space="preserve">
-    <value>_Adicione novos vídeos</value>
+    <value>_Add New Videos</value>
   </data>
   <data name="MainWindow_MenuCancelAll" xml:space="preserve">
-    <value>_Cancelar todos os downloads</value>
+    <value>_Cancel All Downloads</value>
   </data>
   <data name="MainWindow_MenuClearList" xml:space="preserve">
-    <value>_Limpar lista de downloads</value>
+    <value>_Clear Download List</value>
   </data>
   <data name="MainWindow_MenuDownloadAll" xml:space="preserve">
-    <value>_Baixar todos os vídeos</value>
+    <value>_Download All Videos</value>
   </data>
   <data name="MainWindow_MenuExit" xml:space="preserve">
-    <value>_Sair</value>
+    <value>_Exit</value>
   </data>
   <data name="MainWindow_MenuExport" xml:space="preserve">
-    <value>_Exportar links de vídeo</value>
+    <value>_Export Video Links</value>
   </data>
   <data name="MainWindow_MenuImport" xml:space="preserve">
-    <value>_Importar links de vídeo</value>
+    <value>_Import Video Links</value>
   </data>
   <data name="MainWindow_MenuOutputWindow" xml:space="preserve">
-    <value>_Mostrar janela de detalhes do download</value>
+    <value>Afficher la fenêtre de sortie</value>
   </data>
   <data name="MainWindow_MenuPaste" xml:space="preserve">
-    <value>_Colar link de vídeo</value>
+    <value> lien vidéo</value>
   </data>
   <data name="MainWindow_MenuRemove" xml:space="preserve">
-    <value>_Retirar</value>
+    <value>_Remove</value>
   </data>
   <data name="MainWindow_MenuRemoveFinished" xml:space="preserve">
-    <value>Todos os downloads concluídos</value>
+    <value>Tous les téléchargements _Finished</value>
   </data>
   <data name="MainWindow_MenuRemoveUnavailable" xml:space="preserve">
-    <value>Todos os downloads indisponíveis</value>
+    <value>Tous les téléchargements _Unavailable</value>
   </data>
   <data name="MainWindow_MenuSelectFolder" xml:space="preserve">
-    <value>Alterar pasta de download ...</value>
+    <value>Modifier Télécharger _Folder...</value>
   </data>
   <data name="MainWindow_MenuSettings" xml:space="preserve">
-    <value>_Configuração</value>
+    <value>_Settings</value>
   </data>
   <data name="MainWindow_OpenFolder" xml:space="preserve">
-    <value>Abrir</value>
+    <value>Ouvert</value>
   </data>
   <data name="MainWindow_StatusFailed" xml:space="preserve">
-    <value>Falhou:</value>
+    <value>Échoué:</value>
   </data>
   <data name="MainWindow_StatusInProcess" xml:space="preserve">
-    <value>Em processo:</value>
+    <value>En cours :</value>
   </data>
   <data name="MainWindow_StatusSucceeded" xml:space="preserve">
-    <value>Bem sucedido:</value>
+    <value>Réussi:</value>
   </data>
   <data name="MetadataWindow_Creator" xml:space="preserve">
-    <value>Criador:</value>
+    <value>Créateur:</value>
   </data>
   <data name="MetadataWindow_Description" xml:space="preserve">
-    <value>Descrição</value>
+    <value>Description</value>
   </data>
   <data name="MetadataWindow_Details" xml:space="preserve">
-    <value>Detalhes</value>
+    <value>Détails</value>
   </data>
   <data name="MetadataWindow_Duration" xml:space="preserve">
-    <value>Duração:</value>
+    <value>Durée:</value>
   </data>
   <data name="MetadataWindow_Link" xml:space="preserve">
-    <value>Ligação</value>
+    <value>Lien</value>
   </data>
   <data name="MetadataWindow_Source" xml:space="preserve">
-    <value>Fonte:</value>
+    <value>Source:</value>
   </data>
   <data name="MetadataWindow_UploadDate" xml:space="preserve">
-    <value>Carregado:</value>
+    <value>Téléchargé:</value>
   </data>
   <data name="MetadataWindow_Uploader" xml:space="preserve">
     <value>Uploader:</value>
   </data>
   <data name="MetadataWindow_Views" xml:space="preserve">
-    <value>Visualizações:</value>
+    <value>Affichage:</value>
   </data>
   <data name="PathSelectionControl_Change" xml:space="preserve">
-    <value>Mudar</value>
+    <value>changement</value>
   </data>
   <data name="PlaylistEntry_CopyUrl" xml:space="preserve">
-    <value>Copiar URL da lista de reprodução</value>
+    <value>Copier l’URL de la liste de lecture</value>
   </data>
   <data name="SelectDirectory_Description" xml:space="preserve">
-    <value>Selecione o diretório onde os vídeos baixados serão salvos:</value>
+    <value>Sélectionnez le répertoire dans le cas des vidéos téléchargées :</value>
   </data>
   <data name="SettingsWindow_AddMetadata" xml:space="preserve">
-    <value>Adicionar metadados a arquivos</value>
+    <value>Ajouter des métadonnées aux fichiers</value>
   </data>
   <data name="SettingsWindow_AllowDuplicates" xml:space="preserve">
-    <value>Permitir entradas de vídeo duplicadas</value>
+    <value>Autoriser les entrées vidéo en double</value>
   </data>
   <data name="SettingsWindow_Appearance" xml:space="preserve">
-    <value>Aparência</value>
+    <value>Apparence</value>
   </data>
   <data name="SettingsWindow_ArchiveFile" xml:space="preserve">
-    <value>Usar arquivo de download</value>
+    <value>Utiliser Télécharger Archive</value>
   </data>
   <data name="SettingsWindow_AutoCheckUpdates" xml:space="preserve">
-    <value>Verificar automaticamente se há atualizações na inicialização</value>
+    <value>Vérifiez automatiquement les mises à jour au démarrage</value>
   </data>
   <data name="SettingsWindow_Binaries" xml:space="preserve">
-    <value>Aplicação</value>
+    <value>Application</value>
   </data>
   <data name="SettingsWindow_CheckForUpdates" xml:space="preserve">
-    <value>_Procure por atualizações</value>
+    <value>Rechercher les mises à jour</value>
   </data>
   <data name="SettingsWindow_CheckingForUpdates" xml:space="preserve">
-    <value>Procurando por atualizações...</value>
+    <value>Recherche de mises à jour...</value>
   </data>
   <data name="SettingsWindow_DefaultFormat" xml:space="preserve">
-    <value>Formato de download padrão:</value>
+    <value>Format de téléchargement par défaut :</value>
   </data>
   <data name="SettingsWindow_Download" xml:space="preserve">
-    <value>Download</value>
+    <value>Télécharger</value>
   </data>
   <data name="SettingsWindow_DownloadFolder" xml:space="preserve">
-    <value>Pasta de download de vídeo</value>
+    <value>Dossier de téléchargement vidéo</value>
   </data>
   <data name="SettingsWindow_DownloadOptions" xml:space="preserve">
-    <value>Opções de download</value>
+    <value>Options de téléchargement</value>
   </data>
   <data name="SettingsWindow_Ffmpeg" xml:space="preserve">
-    <value>ffmpeg</value>
+    <value>Ffmpeg</value>
   </data>
   <data name="SettingsWindow_Filename" xml:space="preserve">
-    <value>Nome do arquivo</value>
+    <value>Fichier</value>
   </data>
   <data name="SettingsWindow_General" xml:space="preserve">
-    <value>Geral</value>
+    <value>Généralités</value>
   </data>
   <data name="SettingsWindow_MaxProcesses" xml:space="preserve">
-    <value>Número máximo de downloads simultâneos</value>
+    <value>Téléchargements simultanés maximums</value>
   </data>
   <data name="SettingsWindow_OverwriteFiles" xml:space="preserve">
-    <value>Sobrescrever arquivos existentes</value>
+    <value>Remplacer les fichiers existants</value>
   </data>
   <data name="SettingsWindow_Path_ToolTip" xml:space="preserve">
-    <value>Localização do executável no seu PC</value>
+    <value>Emplacement de l’exécutable sur votre PC</value>
   </data>
   <data name="SettingsWindow_PreferRecoding" xml:space="preserve">
-    <value>Baixe com a melhor qualidade e converta</value>
+    <value>Télécharger la meilleure qualité et convertir</value>
   </data>
   <data name="SettingsWindow_Proxy" xml:space="preserve">
     <value>Proxy</value>
   </data>
   <data name="SettingsWindow_ProxyUrl" xml:space="preserve">
-    <value>URL Proxy</value>
+    <value>Proxy URL</value>
   </data>
   <data name="SettingsWindow_RestrictFilenames" xml:space="preserve">
-    <value>Restringir o nome do arquivo a caracteres ASCII</value>
+    <value>Limiter le nom de fichier aux caractères ASCII</value>
   </data>
   <data name="SettingsWindow_ShowAllFormats" xml:space="preserve">
-    <value>Mostrar todos os formatos disponíveis</value>
+    <value>Afficher tous les formats disponibles</value>
   </data>
   <data name="SettingsWindow_Theme" xml:space="preserve">
-    <value>Tema do aplicativo:</value>
+    <value>Thème de l’application :</value>
   </data>
   <data name="SettingsWindow_Title" xml:space="preserve">
-    <value>Configuração</value>
+    <value>Paramètres</value>
   </data>
   <data name="SettingsWindow_Version" xml:space="preserve">
-    <value>Versão:</value>
+    <value>Version:</value>
   </data>
   <data name="SettingsWindow_VideoList" xml:space="preserve">
-    <value>Lista de download</value>
+    <value>Liste de téléchargement</value>
   </data>
   <data name="SettingsWindow_YoutubeDL" xml:space="preserve">
     <value>youtube-dl</value>
   </data>
   <data name="Submit" xml:space="preserve">
-    <value>OK</value>
+    <value>D'accord</value>
   </data>
   <data name="VideoEntry_AlreadyDownloaded" xml:space="preserve">
-    <value>Já existe. Omitido.</value>
+    <value>Déjà existant. Élément ignoré.</value>
   </data>
   <data name="VideoEntry_Converting" xml:space="preserve">
-    <value>Convertendo...</value>
+    <value>Conversion...</value>
   </data>
   <data name="VideoEntry_CopyUrl" xml:space="preserve">
-    <value>Copiar URL do vídeo</value>
+    <value>Copier l’URL vidéo</value>
   </data>
   <data name="VideoEntry_CurrentProgress" xml:space="preserve">
-    <value>Progresso do download do arquivo atual</value>
+    <value>Télécharger l’avancement du fichier actuel</value>
   </data>
   <data name="VideoEntry_Download" xml:space="preserve">
-    <value>Baixar</value>
+    <value>Télécharger</value>
   </data>
   <data name="VideoEntry_Downloading" xml:space="preserve">
-    <value>Baixando...</value>
+    <value>Téléchargement...</value>
   </data>
   <data name="VideoEntry_DownloadSpeed" xml:space="preserve">
-    <value>taxa de download atual</value>
+    <value>Taux de téléchargement actuel</value>
   </data>
   <data name="VideoEntry_Finished" xml:space="preserve">
-    <value>Finalizado.</value>
+    <value>Fini.</value>
   </data>
   <data name="VideoEntry_OpenInBrowser" xml:space="preserve">
-    <value>Abra no navegador</value>
+    <value>Ouvrir dans le navigateur</value>
   </data>
   <data name="VideoEntry_Play" xml:space="preserve">
-    <value>Tocar</value>
+    <value>Jouer</value>
   </data>
   <data name="VideoEntry_Playlist" xml:space="preserve">
-    <value>Playlist - {0} vídeos</value>
+    <value>Playlist - {0} vidéos</value>
   </data>
   <data name="VideoEntry_PreProcessing" xml:space="preserve">
-    <value>Preparando...</value>
+    <value>Préparation...</value>
   </data>
   <data name="VideoEntry_Reload" xml:space="preserve">
-    <value>Recarregue o vídeo</value>
+    <value>Recharger la vidéo</value>
   </data>
   <data name="VideoEntry_RemainingTime" xml:space="preserve">
-    <value>Tempo restante esperado para o arquivo atual</value>
+    <value>Temps restant prévu pour le fichier actuel</value>
   </data>
   <data name="VideoEntry_Remove" xml:space="preserve">
-    <value>Vídeo remoto</value>
+    <value>Supprimer la vidéo</value>
   </data>
   <data name="VideoEntry_ShowInFolder" xml:space="preserve">
-    <value>Mostrar na pasta</value>
+    <value>Afficher dans le dossier</value>
   </data>
   <data name="VideoEntry_ShowInformation" xml:space="preserve">
-    <value>Mostrar informação</value>
+    <value>Afficher les informations</value>
   </data>
   <data name="VideoEntry_TotalDownloadSize" xml:space="preserve">
-    <value>Tamanho total de download do arquivo atual</value>
+    <value>Taille totale de téléchargement du fichier actuel</value>
   </data>
   <data name="Video_DownloadCancelled" xml:space="preserve">
-    <value>Cancelado "{0}".</value>
+    <value>Annulé « {0} ».</value>
   </data>
   <data name="Video_DownloadFailed" xml:space="preserve">
-    <value>Falha ao baixar "{0}".</value>
+    <value>N’a pas téléchargé « {0} ».</value>
   </data>
   <data name="Video_DownloadFinished" xml:space="preserve">
-    <value>Concluído "{0}".</value>
+    <value>Fini « {0} ».</value>
   </data>
   <data name="Video_DownloadStarting" xml:space="preserve">
-    <value>Baixando "{0}"...</value>
+    <value>Téléchargement de « {0} »...</value>
   </data>
 </root>

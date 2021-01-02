@@ -1,4 +1,5 @@
 ﻿using System.Reflection;
+using System.Resources;
 using System.Runtime.InteropServices;
 using System.Windows;
 using Bluegrams.Application.Attributes;
@@ -32,7 +33,7 @@ using Bluegrams.Application.Attributes;
 //the NeutralResourceLanguage attribute below.  Update the "en-US" in
 //the line below to match the UICulture setting in the project file.
 
-//[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
+[assembly: NeutralResourcesLanguage("en")]
 
 
 [assembly: ThemeInfo(
@@ -44,5 +45,5 @@ using Bluegrams.Application.Attributes;
                                               // app, or any theme specific resource dictionaries)
 )]
 
-[assembly: AssemblyVersion("0.3.0.0")]
-[assembly: AssemblyFileVersion("0.3.0.0")]
+[assembly: AssemblyVersion("0.4.0.0")]
+[assembly: AssemblyFileVersion("0.4.0.0")]

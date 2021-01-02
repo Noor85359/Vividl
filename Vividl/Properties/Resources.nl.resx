@@ -118,284 +118,226 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
+    <value>Afbreken</value>
   </data>
   <data name="DownloadOption_AVI" xml:space="preserve">
-    <value>Converter para AVI</value>
+    <value>Omzetten naar  AVI</value>
   </data>
   <data name="DownloadOption_Best" xml:space="preserve">
-    <value>Melhores downloads diretos</value>
+    <value>Beste direct Download</value>
   </data>
   <data name="DownloadOption_M4A" xml:space="preserve">
-    <value>Converter para M4A</value>
+    <value>Omzetten naar  M4A</value>
   </data>
   <data name="DownloadOption_MKV" xml:space="preserve">
-    <value>Fundir para MKV</value>
+    <value>Omzetten naar MKV</value>
   </data>
   <data name="DownloadOption_MP3" xml:space="preserve">
-    <value>Converter para MP3</value>
+    <value>Omzetten naar MP3</value>
   </data>
   <data name="DownloadOption_MP4" xml:space="preserve">
-    <value>Converter para MP4</value>
+    <value>Omzetten naar MP4</value>
   </data>
   <data name="DownloadOption_Vorbis" xml:space="preserve">
-    <value>Converter para Ogg Vorbis</value>
+    <value>Omzetten naar Ogg Vorbis</value>
   </data>
   <data name="DownloadOption_WAV" xml:space="preserve">
-    <value>Converter para WAV</value>
+    <value>Omzetten naar WAV</value>
   </data>
   <data name="DownloadOption_Webm" xml:space="preserve">
-    <value>Converter para WebM</value>
-  </data>
-  <data name="DownloadOutputWindow_ClearOutput" xml:space="preserve">
-    <value>Limpar a saída</value>
-  </data>
-  <data name="DownloadOutputWindow_CopyOutput" xml:space="preserve">
-    <value>Copiar a saída</value>
-  </data>
-  <data name="DownloadOutputWindow_Title" xml:space="preserve">
-    <value>Detalhe de download</value>
+    <value>Omzetten naar WebM</value>
   </data>
   <data name="Error" xml:space="preserve">
-    <value>Erro</value>
-  </data>
-  <data name="FetchWindow_DownloadFormat" xml:space="preserve">
-    <value>Formato de download</value>
-  </data>
-  <data name="FetchWindow_DownloadPlaylist" xml:space="preserve">
-    <value>Baixar playlist se disponível</value>
+    <value>Fout</value>
   </data>
   <data name="FetchWindow_EnterUrls" xml:space="preserve">
-    <value>Insira o URL do vídeo em linhas separadas</value>
-  </data>
-  <data name="FetchWindow_ImmediateDownload" xml:space="preserve">
-    <value>Comece o download imediatamente</value>
-  </data>
-  <data name="FetchWindow_Options" xml:space="preserve">
-    <value>Opções</value>
-  </data>
-  <data name="FetchWindow_Password" xml:space="preserve">
-    <value>Senha</value>
-  </data>
-  <data name="FetchWindow_Settings" xml:space="preserve">
-    <value>Configuração</value>
-  </data>
-  <data name="FetchWindow_TabAuthentication" xml:space="preserve">
-    <value>Autenticação</value>
-  </data>
-  <data name="FetchWindow_TabGeneral" xml:space="preserve">
-    <value>Geral</value>
-  </data>
-  <data name="FetchWindow_Username" xml:space="preserve">
-    <value>Nome do Usuário</value>
-  </data>
-  <data name="FetchWindow_VideoPassword" xml:space="preserve">
-    <value>Senha do vídeo</value>
+    <value>Voer video-URL's op aparte regels in</value>
   </data>
   <data name="Info" xml:space="preserve">
-    <value>Informação</value>
+    <value>Info</value>
   </data>
   <data name="MainWindow_AlreadyFetched" xml:space="preserve">
-    <value>Este vídeo já foi adicionado para a lista de downloads. Para permitir duplicatas, vá para Opções -&gt; Configuração.
-</value>
+    <value>Deze video is al toegevoegd aan de downloadlijst.Om dublicaten toe te staan, ga naar Opties -&gt; Instellingen.</value>
   </data>
   <data name="MainWindow_CountFailedFetches" xml:space="preserve">
-    <value>Falha ao buscar {0} vídeos:</value>
+    <value>Kirjgen van  {0} Videos mislukt:</value>
   </data>
   <data name="MainWindow_DownloadFolder" xml:space="preserve">
-    <value>Pasta de download</value>
+    <value>Downloaden</value>
   </data>
   <data name="MainWindow_FetchFailed_General" xml:space="preserve">
-    <value>Verifique se o URL fornecido é válido.</value>
+    <value>Zorg ervoor dat de opgegeven URL geldig is.</value>
   </data>
   <data name="MainWindow_FetchFailed_Title" xml:space="preserve">
-    <value>Não foi possível obter o vídeo</value>
+    <value>Kan de video niet ophalen</value>
   </data>
   <data name="MainWindow_HeaderFile" xml:space="preserve">
-    <value>_Arquivo</value>
+    <value>_Dossier</value>
   </data>
   <data name="MainWindow_HeaderOptions" xml:space="preserve">
-    <value>_Opções</value>
+    <value>_Opties</value>
   </data>
   <data name="MainWindow_HeaderVideos" xml:space="preserve">
-    <value>_Vídeos</value>
-  </data>
-  <data name="MainWindow_ListEmpty" xml:space="preserve">
-    <value>Adicione novos vídeos colando ou importando URLs.</value>
+    <value>_Videos</value>
   </data>
   <data name="MainWindow_MenuAbout" xml:space="preserve">
-    <value>Sobre</value>
+    <value>Over</value>
   </data>
   <data name="MainWindow_MenuAdd" xml:space="preserve">
-    <value>_Adicione novos vídeos</value>
+    <value>Nieuw Videos _Toevoegen</value>
   </data>
   <data name="MainWindow_MenuCancelAll" xml:space="preserve">
-    <value>_Cancelar todos os downloads</value>
+    <value>Alle Downloads _Afbreken</value>
   </data>
   <data name="MainWindow_MenuClearList" xml:space="preserve">
-    <value>_Limpar lista de downloads</value>
+    <value>Downloadlijst _leegmaken</value>
   </data>
   <data name="MainWindow_MenuDownloadAll" xml:space="preserve">
-    <value>_Baixar todos os vídeos</value>
+    <value>Alle _Videos herunterladen</value>
   </data>
   <data name="MainWindow_MenuExit" xml:space="preserve">
-    <value>_Sair</value>
+    <value>_Afsluiten</value>
   </data>
   <data name="MainWindow_MenuExport" xml:space="preserve">
-    <value>_Exportar links de vídeo</value>
+    <value>Video Links _Exporteren</value>
   </data>
   <data name="MainWindow_MenuImport" xml:space="preserve">
-    <value>_Importar links de vídeo</value>
-  </data>
-  <data name="MainWindow_MenuOutputWindow" xml:space="preserve">
-    <value>_Mostrar janela de detalhes do download</value>
+    <value>Video Links _Importeren</value>
   </data>
   <data name="MainWindow_MenuPaste" xml:space="preserve">
-    <value>_Colar link de vídeo</value>
+    <value>Video Link invoegen</value>
   </data>
   <data name="MainWindow_MenuRemove" xml:space="preserve">
-    <value>_Retirar</value>
+    <value>Verwijderen</value>
   </data>
   <data name="MainWindow_MenuRemoveFinished" xml:space="preserve">
-    <value>Todos os downloads concluídos</value>
+    <value>Alle _afgewerkte Downloads</value>
   </data>
   <data name="MainWindow_MenuRemoveUnavailable" xml:space="preserve">
-    <value>Todos os downloads indisponíveis</value>
+    <value>Alle _onafgewerkte Downloads</value>
   </data>
   <data name="MainWindow_MenuSelectFolder" xml:space="preserve">
-    <value>Alterar pasta de download ...</value>
+    <value>Wijzid de _downoadmap </value>
   </data>
   <data name="MainWindow_MenuSettings" xml:space="preserve">
-    <value>_Configuração</value>
+    <value>_Instellingen</value>
   </data>
   <data name="MainWindow_OpenFolder" xml:space="preserve">
-    <value>Abrir</value>
+    <value>Openen</value>
   </data>
   <data name="MainWindow_StatusFailed" xml:space="preserve">
-    <value>Falhou:</value>
+    <value>Fout:</value>
   </data>
   <data name="MainWindow_StatusInProcess" xml:space="preserve">
-    <value>Em processo:</value>
+    <value>In bewerking:</value>
   </data>
   <data name="MainWindow_StatusSucceeded" xml:space="preserve">
-    <value>Bem sucedido:</value>
+    <value>Gelukt:</value>
   </data>
   <data name="MetadataWindow_Creator" xml:space="preserve">
-    <value>Criador:</value>
+    <value>Ersteller:</value>
   </data>
   <data name="MetadataWindow_Description" xml:space="preserve">
-    <value>Descrição</value>
+    <value>Omshrijving</value>
   </data>
   <data name="MetadataWindow_Details" xml:space="preserve">
-    <value>Detalhes</value>
+    <value>Details</value>
   </data>
   <data name="MetadataWindow_Duration" xml:space="preserve">
-    <value>Duração:</value>
+    <value>Duur:</value>
   </data>
   <data name="MetadataWindow_Link" xml:space="preserve">
-    <value>Ligação</value>
+    <value>Link</value>
   </data>
   <data name="MetadataWindow_Source" xml:space="preserve">
-    <value>Fonte:</value>
+    <value>Bron:</value>
   </data>
   <data name="MetadataWindow_UploadDate" xml:space="preserve">
-    <value>Carregado:</value>
+    <value>Geupload:</value>
   </data>
   <data name="MetadataWindow_Uploader" xml:space="preserve">
-    <value>Uploader:</value>
+    <value>Geupload van:</value>
   </data>
   <data name="MetadataWindow_Views" xml:space="preserve">
-    <value>Visualizações:</value>
+    <value>Keer bekeken:</value>
   </data>
   <data name="PathSelectionControl_Change" xml:space="preserve">
-    <value>Mudar</value>
+    <value>Veranderen:</value>
   </data>
   <data name="PlaylistEntry_CopyUrl" xml:space="preserve">
-    <value>Copiar URL da lista de reprodução</value>
+    <value>Playlist URL kopieren</value>
   </data>
   <data name="SelectDirectory_Description" xml:space="preserve">
-    <value>Selecione o diretório onde os vídeos baixados serão salvos:</value>
-  </data>
-  <data name="SettingsWindow_AddMetadata" xml:space="preserve">
-    <value>Adicionar metadados a arquivos</value>
+    <value>Kies de map waarin gedownloade video's worden opgeslagen:</value>
   </data>
   <data name="SettingsWindow_AllowDuplicates" xml:space="preserve">
-    <value>Permitir entradas de vídeo duplicadas</value>
+    <value>Sta dubbelel video's toe:</value>
   </data>
   <data name="SettingsWindow_Appearance" xml:space="preserve">
-    <value>Aparência</value>
+    <value>Zicht</value>
   </data>
   <data name="SettingsWindow_ArchiveFile" xml:space="preserve">
-    <value>Usar arquivo de download</value>
+    <value>Downloadarchief verwenden</value>
   </data>
   <data name="SettingsWindow_AutoCheckUpdates" xml:space="preserve">
-    <value>Verificar automaticamente se há atualizações na inicialização</value>
+    <value>Bij opstaren automatish zoeken naar updates</value>
   </data>
   <data name="SettingsWindow_Binaries" xml:space="preserve">
-    <value>Aplicação</value>
+    <value>Programma</value>
   </data>
   <data name="SettingsWindow_CheckForUpdates" xml:space="preserve">
-    <value>_Procure por atualizações</value>
+    <value>Naar Updates zoeken</value>
   </data>
   <data name="SettingsWindow_CheckingForUpdates" xml:space="preserve">
-    <value>Procurando por atualizações...</value>
+    <value>Zoekt naar Updates...</value>
   </data>
   <data name="SettingsWindow_DefaultFormat" xml:space="preserve">
-    <value>Formato de download padrão:</value>
+    <value>Standard Downloadformaat:</value>
   </data>
   <data name="SettingsWindow_Download" xml:space="preserve">
     <value>Download</value>
   </data>
   <data name="SettingsWindow_DownloadFolder" xml:space="preserve">
-    <value>Pasta de download de vídeo</value>
+    <value>Video Download map</value>
   </data>
   <data name="SettingsWindow_DownloadOptions" xml:space="preserve">
-    <value>Opções de download</value>
+    <value>Downloadopties</value>
   </data>
   <data name="SettingsWindow_Ffmpeg" xml:space="preserve">
     <value>ffmpeg</value>
   </data>
   <data name="SettingsWindow_Filename" xml:space="preserve">
-    <value>Nome do arquivo</value>
+    <value>Bestandsnaam</value>
   </data>
   <data name="SettingsWindow_General" xml:space="preserve">
-    <value>Geral</value>
+    <value>Algemeen</value>
   </data>
   <data name="SettingsWindow_MaxProcesses" xml:space="preserve">
-    <value>Número máximo de downloads simultâneos</value>
+    <value>Maximale parallele Downloads</value>
   </data>
   <data name="SettingsWindow_OverwriteFiles" xml:space="preserve">
-    <value>Sobrescrever arquivos existentes</value>
-  </data>
-  <data name="SettingsWindow_Path_ToolTip" xml:space="preserve">
-    <value>Localização do executável no seu PC</value>
+    <value>Bestaande bestanden overshrijven</value>
   </data>
   <data name="SettingsWindow_PreferRecoding" xml:space="preserve">
-    <value>Baixe com a melhor qualidade e converta</value>
-  </data>
-  <data name="SettingsWindow_Proxy" xml:space="preserve">
-    <value>Proxy</value>
-  </data>
-  <data name="SettingsWindow_ProxyUrl" xml:space="preserve">
-    <value>URL Proxy</value>
+    <value>Download en converteer de beste kwaliteit</value>
   </data>
   <data name="SettingsWindow_RestrictFilenames" xml:space="preserve">
-    <value>Restringir o nome do arquivo a caracteres ASCII</value>
+    <value>Beperk bestandsnamen tot ASCII-tekens</value>
   </data>
   <data name="SettingsWindow_ShowAllFormats" xml:space="preserve">
-    <value>Mostrar todos os formatos disponíveis</value>
+    <value>Toon alle beschikbare formaten</value>
   </data>
   <data name="SettingsWindow_Theme" xml:space="preserve">
-    <value>Tema do aplicativo:</value>
+    <value>Kleur thema:</value>
   </data>
   <data name="SettingsWindow_Title" xml:space="preserve">
-    <value>Configuração</value>
+    <value>Instellingen:</value>
   </data>
   <data name="SettingsWindow_Version" xml:space="preserve">
-    <value>Versão:</value>
+    <value>Versie:</value>
   </data>
   <data name="SettingsWindow_VideoList" xml:space="preserve">
-    <value>Lista de download</value>
+    <value>Downloadlijst</value>
   </data>
   <data name="SettingsWindow_YoutubeDL" xml:space="preserve">
     <value>youtube-dl</value>
@@ -403,70 +345,127 @@
   <data name="Submit" xml:space="preserve">
     <value>OK</value>
   </data>
-  <data name="VideoEntry_AlreadyDownloaded" xml:space="preserve">
-    <value>Já existe. Omitido.</value>
-  </data>
-  <data name="VideoEntry_Converting" xml:space="preserve">
-    <value>Convertendo...</value>
-  </data>
-  <data name="VideoEntry_CopyUrl" xml:space="preserve">
-    <value>Copiar URL do vídeo</value>
-  </data>
-  <data name="VideoEntry_CurrentProgress" xml:space="preserve">
-    <value>Progresso do download do arquivo atual</value>
-  </data>
-  <data name="VideoEntry_Download" xml:space="preserve">
-    <value>Baixar</value>
-  </data>
-  <data name="VideoEntry_Downloading" xml:space="preserve">
-    <value>Baixando...</value>
-  </data>
-  <data name="VideoEntry_DownloadSpeed" xml:space="preserve">
-    <value>taxa de download atual</value>
-  </data>
-  <data name="VideoEntry_Finished" xml:space="preserve">
-    <value>Finalizado.</value>
-  </data>
-  <data name="VideoEntry_OpenInBrowser" xml:space="preserve">
-    <value>Abra no navegador</value>
-  </data>
-  <data name="VideoEntry_Play" xml:space="preserve">
-    <value>Tocar</value>
-  </data>
-  <data name="VideoEntry_Playlist" xml:space="preserve">
-    <value>Playlist - {0} vídeos</value>
-  </data>
-  <data name="VideoEntry_PreProcessing" xml:space="preserve">
-    <value>Preparando...</value>
-  </data>
-  <data name="VideoEntry_Reload" xml:space="preserve">
-    <value>Recarregue o vídeo</value>
-  </data>
-  <data name="VideoEntry_RemainingTime" xml:space="preserve">
-    <value>Tempo restante esperado para o arquivo atual</value>
-  </data>
-  <data name="VideoEntry_Remove" xml:space="preserve">
-    <value>Vídeo remoto</value>
-  </data>
-  <data name="VideoEntry_ShowInFolder" xml:space="preserve">
-    <value>Mostrar na pasta</value>
-  </data>
-  <data name="VideoEntry_ShowInformation" xml:space="preserve">
-    <value>Mostrar informação</value>
-  </data>
-  <data name="VideoEntry_TotalDownloadSize" xml:space="preserve">
-    <value>Tamanho total de download do arquivo atual</value>
-  </data>
   <data name="Video_DownloadCancelled" xml:space="preserve">
-    <value>Cancelado "{0}".</value>
+    <value>"{0}" afgebroken.</value>
   </data>
   <data name="Video_DownloadFailed" xml:space="preserve">
-    <value>Falha ao baixar "{0}".</value>
+    <value>Download van "{0}" mislukt.</value>
   </data>
   <data name="Video_DownloadFinished" xml:space="preserve">
-    <value>Concluído "{0}".</value>
+    <value>"{0}" voltooid.</value>
   </data>
   <data name="Video_DownloadStarting" xml:space="preserve">
-    <value>Baixando "{0}"...</value>
+    <value>Laden "{0}" naar beneden...</value>
+  </data>
+  <data name="VideoEntry_AlreadyDownloaded" xml:space="preserve">
+    <value>Bestaat al. Overgeslagen.</value>
+  </data>
+  <data name="VideoEntry_Converting" xml:space="preserve">
+    <value>Omzetten...</value>
+  </data>
+  <data name="VideoEntry_CopyUrl" xml:space="preserve">
+    <value>Video URL kopieren</value>
+  </data>
+  <data name="VideoEntry_Download" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="VideoEntry_Downloading" xml:space="preserve">
+    <value>Laden naar beneden ...</value>
+  </data>
+  <data name="VideoEntry_Finished" xml:space="preserve">
+    <value>Stoppen.</value>
+  </data>
+  <data name="VideoEntry_OpenInBrowser" xml:space="preserve">
+    <value>Im Browser openen</value>
+  </data>
+  <data name="VideoEntry_Play" xml:space="preserve">
+    <value>Afspelen</value>
+  </data>
+  <data name="VideoEntry_Playlist" xml:space="preserve">
+    <value>Playlist - {0} Videos</value>
+  </data>
+  <data name="VideoEntry_PreProcessing" xml:space="preserve">
+    <value>Voorbereiden...</value>
+  </data>
+  <data name="VideoEntry_Reload" xml:space="preserve">
+    <value>Video nu laden</value>
+  </data>
+  <data name="VideoEntry_Remove" xml:space="preserve">
+    <value>Video verwijderen</value>
+  </data>
+  <data name="VideoEntry_ShowInFolder" xml:space="preserve">
+    <value>In map tonen</value>
+  </data>
+  <data name="VideoEntry_ShowInformation" xml:space="preserve">
+    <value>Informatie weergeven </value>
+  </data>
+  <data name="SettingsWindow_Path_ToolTip" xml:space="preserve">
+    <value>Locatie van het programma in het bestandsysteem</value>
+  </data>
+  <data name="MainWindow_ListEmpty" xml:space="preserve">
+    <value>Voeg video-URL's toe vanaf het klembord of bestand</value>
+  </data>
+  <data name="FetchWindow_TabAuthentication" xml:space="preserve">
+    <value>Authenticatie</value>
+  </data>
+  <data name="FetchWindow_DownloadFormat" xml:space="preserve">
+    <value>Downloadformaat</value>
+  </data>
+  <data name="FetchWindow_DownloadPlaylist" xml:space="preserve">
+    <value>Download indien mogelijk de playlist</value>
+  </data>
+  <data name="FetchWindow_TabGeneral" xml:space="preserve">
+    <value>Algemeen</value>
+  </data>
+  <data name="FetchWindow_Options" xml:space="preserve">
+    <value>Opties</value>
+  </data>
+  <data name="FetchWindow_Password" xml:space="preserve">
+    <value>Wachtwoord</value>
+  </data>
+  <data name="FetchWindow_Settings" xml:space="preserve">
+    <value>Instellingen</value>
+  </data>
+  <data name="FetchWindow_ImmediateDownload" xml:space="preserve">
+    <value>Download direkt starten</value>
+  </data>
+  <data name="FetchWindow_Username" xml:space="preserve">
+    <value>Gebruikersnaam</value>
+  </data>
+  <data name="FetchWindow_VideoPassword" xml:space="preserve">
+    <value>Video wachtwoord</value>
+  </data>
+  <data name="DownloadOutputWindow_ClearOutput" xml:space="preserve">
+    <value>output leegmaken</value>
+  </data>
+  <data name="DownloadOutputWindow_CopyOutput" xml:space="preserve">
+    <value>output kopieren</value>
+  </data>
+  <data name="MainWindow_MenuOutputWindow" xml:space="preserve">
+    <value>Uitvoervenster tonen</value>
+  </data>
+  <data name="SettingsWindow_AddMetadata" xml:space="preserve">
+    <value>Voeg metadata toe aan bestanden</value>
+  </data>
+  <data name="SettingsWindow_Proxy" xml:space="preserve">
+    <value>Proxy</value>
+  </data>
+  <data name="SettingsWindow_ProxyUrl" xml:space="preserve">
+    <value>Proxy Address</value>
+  </data>
+  <data name="DownloadOutputWindow_Title" xml:space="preserve">
+    <value>Download Output</value>
+  </data>
+  <data name="VideoEntry_CurrentProgress" xml:space="preserve">
+    <value>Download vooruitgang van het huidige bestand</value>
+  </data>
+  <data name="VideoEntry_DownloadSpeed" xml:space="preserve">
+    <value>Huidige downloadsnelheid</value>
+  </data>
+  <data name="VideoEntry_RemainingTime" xml:space="preserve">
+    <value>Verwachte resterende tijd voor het huidige bestand</value>
+  </data>
+  <data name="VideoEntry_TotalDownloadSize" xml:space="preserve">
+    <value>Totale grootte van het huidige bestand</value>
   </data>
 </root>
